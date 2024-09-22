@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ziad!</h1>
+<h1 align="center">Hi, I'm Ziad! 👋</h1>
 <h2 align="center">Cybersecurity and IT Professional</h2>
 
 <h3 align="left">Connect with me:</h3>
