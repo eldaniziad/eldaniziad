@@ -24,7 +24,7 @@
   <a href="https://www.virustotal.com/gui/" target="_blank"><img src="https://www.svgrepo.com/show/331633/virustotal.svg" alt="VirusTotal" width="40" height="40"/><a href="https://suricata.io/" target="_blank"><img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="Suricata" width="40" height="40"/></a> <a href="https://www.ossec.net/" target="_blank"><img src="https://www.ossec.net/wp-content/uploads/2019/01/ossec_logo_2-300x113.png" alt="OSSEC" width="68" height="40"/></a> 
 </p>
 
-### Security Training Tools
+### Phishing Simulation Training Tools
 <p align="left">
   <a href="https://www.beauceronsecurity.com/" target="_blank"><img src="https://onbcanada.ca/wp-content/uploads/2018/10/beauceronlogo.png" alt="Beauceron Phishing" width="40" height="40"/></a> <a href="https://canarytokens.org/nest/" target="_blank"><img src="https://github.com/user-attachments/assets/10fb3f20-e6ee-4e19-bd99-6d9a722182d4"alt="Canary Tokens" width="53" height="40"/></a> <a href="https://caniphish.com/"><img src="https://github.com/user-attachments/assets/916dacc1-0e52-483e-97ff-afe5d83285d1"alt="Caniphish" width="40" height="40"/></a>   <a href="https://getgophish.com"><img src="https://github.com/user-attachments/assets/6b66bed7-9a49-46d1-a89b-05b3edbb49c9"alt="GoPhish" width="40" height="40"/></a> 
 
