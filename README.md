@@ -30,14 +30,30 @@
 
 ---
 
-### 🏆 My Certifications
+## 🏆 My Certifications
 <p align="left">
 <a href="https://www.credly.com/badges/3947e9c3-40d1-41c0-8489-deb6c7a10495/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/c14405dc-2810-4a41-974f-1c241faefc78" alt="CISSP" width="60" height="60"></a> <a href="https://www.credly.com/badges/5de2de33-5b1f-4a1a-bf4d-c109c8cad3b1" target="_blank"><img src="https://github.com/user-attachments/assets/6ec3e303-50b5-4633-b5cf-721df33c03ed" alt="SSCP" width="60" height="60"></a><a href="https://www.credly.com/badges/c1a085e7-8058-4449-89e5-b84819b5264d/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/9bb6ba54-e9eb-4c52-a760-f841175f9c1c" alt="Certified Cyberdefender CCD" width="60" height="60"></a><a href="https://www.credly.com/badges/64c47aeb-615d-4bf9-9581-84191f0b12b5/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/e8512cdb-b384-49ec-8082-d86d467e5ff1" alt="CySa+" width="60" height="60"></a><a href="https://www.credly.com/badges/b9cd32b1-9c51-4834-888c-f9255a9f3863/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/5fd26fe4-9a08-43f6-a9e4-8a2e5a7b816d" alt="Pentest+" width="60" height="60"></a><a href="https://www.credly.com/badges/1dabd0fe-b3bf-41da-936c-6f2478fbdbce/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/2598c1b9-0f1d-4121-88c0-37e0737cb692" alt="Network+" width="60" height="60"></a><a href="https://www.credly.com/badges/b9c702e7-b532-4cd5-a840-bba3e4090deb/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/8fdaccd2-47b2-4354-8822-dff47bad7a5a" alt="Security+" width="60" height="60"></a><a href="https://www.credly.com/badges/957dd78d-f26f-4b9e-bb32-3f08c58d88d7/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/003f83dc-5e5e-4da8-9c96-bf4f36ccde70" alt="A+" width="60" height="60"></a><a href="https://www.peoplecert.org/for-corporations/certificate-verification-service" target="_blank"><img src="https://github.com/user-attachments/assets/135dd520-3776-44b5-9c14-bc642bf86dad" alt="ITIL v4 Foundations" width="60" height="60"></a><a href="https://brillium-resources.s3.amazonaws.com/downloads/jumpcloud.onlinetests.app/reports/20240226_TDDYXCJSU3R3/A03VNM_CertLetter_20240226_234647.pdf" target="_blank"><img src="https://github.com/user-attachments/assets/0bd3ae11-497d-402b-9d56-e850b54b1df2" alt="Jumpcloud Core" width="60" height="60"></a><a href="https://www.coursera.org/account/accomplishments/professional-cert/6AEY2RBDK5FJ" target="_blank"><img src="https://github.com/user-attachments/assets/b8e06b3d-3f33-472b-a9e1-6782272e6497" alt="Google IT Professional" width="60" height="60"></a>
 </p>
 
+---
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+- [Email Sandbox ScannerExtension](https://github.com/eldaniziad/Email-Sandbox-Scanner-Extension)
+  - Browser extension helping users to sandbox scan emails and highlight hidden malicious links as well as providing context analysis on email and best practices recommendations.   
+- [Enforce Secure Passwords Extension](https://github.com/eldaniziad/Enforce-Secure-Passwords-Extension)
+  - Chrome extension that ensures users create strong, policy-compliant passwords while securely syncing them to their password manager.
+- [Azure SOC](https://github.com/eldaniziad/Azure-SOC)
+  - Setting up a Security Operations Center (SOC) with Azure-based security tools and configurations for threat detection, investigation, and response.
+- [EDR-C2 Home Lab](https://github.com/eldaniziad/EDR-C2-Home-Lab)
+  - Setting up a home lab for Endpoint Detection and Response (EDR) and Command and Control (C2).
+- [Threat Hunting and Forensics Resources](https://github.com/eldaniziad/Threat-Hunting-and-Forensics-Resources)
+  - A collection of forensics and threat-hunting resources to aid on the journey towards attaining Certified CyberDefender certification.
+- [Small Office Network Lab](https://github.com/eldaniziad/Small-Office-Network-Lab)
+  - Creating a SOHO network lab in Cisco Packet Tracer with VLANs, router configurations, and more for skill development.
+- [Certification Resources](https://github.com/eldaniziad/Certification-Resources)
+  - My collection of certification resources that I have curated during my journey to achieving various professional certifications.
 
 
-<!-- Add your projects here -->
+
 
