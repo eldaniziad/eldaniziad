@@ -36,7 +36,7 @@
 </p>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>![comptia-network-ce-certification 1]()
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 <!-- Add your projects here -->
