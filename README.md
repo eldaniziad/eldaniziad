@@ -51,9 +51,7 @@
   - A collection of forensics and threat-hunting resources to aid on the journey towards attaining Certified CyberDefender certification.
 - [Small Office Network Lab](https://github.com/eldaniziad/Small-Office-Network-Lab)
   - Creating a SOHO network lab in Cisco Packet Tracer with VLANs, router configurations, and more for skill development.
+- [Personal Powershell Reference](https://github.com/eldaniziad/PersonalPowershellReference)
+  - My personal collection of powershell one-liners for quick reference for home environment maintenance.
 - [Certification Resources](https://github.com/eldaniziad/Certification-Resources)
   - My collection of certification resources that I have curated during my journey to achieving various professional certifications.
-
-
-
-
