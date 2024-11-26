@@ -39,6 +39,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
+- [Hackthebox Write Ups](https://hacktheboxwriteups.notion.site/Hackthebox-Write-Ups-68eb6195edf241f2a794b98821652119?pvs=74)
+    - Hackthebox write ups, my goal has been to commit to one system root daily and eventually complete all machines in 2025! Follow along for my journey!
 - [Email Sandbox ScannerExtension](https://github.com/eldaniziad/Email-Sandbox-Scanner-Extension)
   - Browser extension helping users to sandbox scan emails and highlight hidden malicious links as well as providing context analysis on email and best practices recommendations.   
 - [Enforce Secure Passwords Extension](https://github.com/eldaniziad/Enforce-Secure-Passwords-Extension)
